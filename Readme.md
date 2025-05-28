@@ -2,7 +2,7 @@
 
 This project is a Streamlit-based web app that performs **structured data extraction** from menu images using **Google Gemini (via LangChain)** and outputs a clean, downloadable CSV file. It detects food items, categories, types (Veg/Non-Veg), descriptions, prices, and add-ons from menu images.
 
----
+
 
 ## 📌 Features
 
@@ -12,7 +12,7 @@ This project is a Streamlit-based web app that performs **structured data extrac
 * 📋 Displays extracted data as a table in the app.
 * 💾 Exports the result as a **CSV file** for download.
 
----
+
 
 ## 🧠 Tech Stack
 
@@ -24,7 +24,7 @@ This project is a Streamlit-based web app that performs **structured data extrac
 * **Pandas** – Dataframe manipulation
 * **dotenv** – Environment variable handling
 
----
+
 
 ## 📁 Project Structure
 
@@ -38,7 +38,7 @@ This project is a Streamlit-based web app that performs **structured data extrac
 ├── /images                 # Folder of menu images
 ```
 
----
+
 
 ## 🛠️ Setup Instructions
 
@@ -68,7 +68,6 @@ GOOGLE_API_KEY=your_google_genai_api_key
 
 > Alternatively, the app will prompt you to enter the key when running.
 
----
 
 ## ▶️ Run the App
 
@@ -76,7 +75,7 @@ GOOGLE_API_KEY=your_google_genai_api_key
 streamlit run app.py
 ```
 
----
+
 
 ## 🧪 How It Works
 
@@ -86,7 +85,7 @@ streamlit run app.py
 4. **Tabular View** – Parsed JSON is converted to a DataFrame.
 5. **Download CSV** – Export and save results.
 
----
+
 
 ## ✅ Output Format
 
@@ -97,5 +96,19 @@ Each row in the CSV contains:
 * Item ID, Name, Description, Price, Type (Veg/Non-Veg)
 * Add-on Name & Price (if any)
 
+
+
+## ✅ Output Results
+
+Example 1(task_menu_1):
+
+![task_menu_1](https://github.com/user-attachments/assets/610ff99a-b36e-466c-ad37-5f095c0e06d9)
+
 ---
+
+Example 2(task_menu_2):
+
+![task_menu_2](https://github.com/user-attachments/assets/8226019c-67c7-4474-a7fb-97c3940d5724)
+
+
 
