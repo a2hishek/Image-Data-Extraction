@@ -1,0 +1,13 @@
+restaurant_id,restaurant_name,restaurant_area,category_id,category_name,item_id,item_name,description,price,type,add_on_name,add_on_price
+REST_001,,,CAT_001,Meal,ITEM_001,Korean Garlic Buns,,189,Both,Gochujang Chicken,80.0
+REST_001,,,CAT_001,Meal,ITEM_001,Korean Garlic Buns,,189,Both,Chorizo (pork),100.0
+REST_001,,,CAT_002,SPECIAL BEVERAGE MENU,ITEM_002,Pulp Fiction,"Elder Sons Orange Boy, Ice, Espresso",189,,,
+REST_001,,,CAT_002,SPECIAL BEVERAGE MENU,ITEM_003,Vanilla Coke,"Ice, Coke, Vanilla Ice cream",149,,,
+REST_001,,,CAT_002,SPECIAL BEVERAGE MENU,ITEM_004,Home Brewed Lemon Ice tea,,129,,,
+REST_001,,,CAT_002,SPECIAL BEVERAGE MENU,ITEM_005,Iced Caramel Machiato,"Caramel, espresso, milk vanilla",219,,,
+REST_001,,,CAT_002,SPECIAL BEVERAGE MENU,ITEM_006,Vietnamese Iced Coffee,"Espresso Shot, Ice, Condensed Milk",199,,,
+REST_001,,,CAT_002,SPECIAL BEVERAGE MENU,ITEM_007,Classic Rose Lemonade,"Classic Lemonade with Rose Syrup ,  Basil Seeds",139,,,
+REST_001,,,CAT_002,SPECIAL BEVERAGE MENU,ITEM_008,Elder Sons,Goa's real fruit soft drink,80,,,
+REST_001,,,CAT_003,DESSERT,ITEM_009,Banoffee Pie,"Banana, Coffee, Chocolate",149,Veg,,
+REST_001,,,CAT_003,DESSERT,ITEM_010,Mango Tres Leches,,269,Veg,,
+REST_001,,,CAT_003,DESSERT,ITEM_011,Chocolate Éclair,,169,Non-veg,,

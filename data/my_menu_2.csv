@@ -1,0 +1,10 @@
+restaurant_id,restaurant_name,restaurant_area,category_id,category_name,item_id,item_name,description,price,type,add_on_name,add_on_price
+REST_001,,,CAT_001,SPECIAL CALZONE MENU,ITEM_001,Three Cheese Caprese,"Mozzarella, Cheddar, Cream Cheese, Tomato, Basil, Balsamic Drizzle",259,Veg,,
+REST_001,,,CAT_001,SPECIAL CALZONE MENU,ITEM_002,Mushroom Pesto,"Sauteed Mushrooms, Pesto, Mozzarella, Sun Dried Tomato",299,Veg,,
+REST_001,,,CAT_001,SPECIAL CALZONE MENU,ITEM_003,Chicken & Spinach,"Tomato Sauce, Spinach, Chicken, Bell Pepper, Mozzarella",289,Non-veg,,
+REST_001,,,CAT_001,SPECIAL CALZONE MENU,ITEM_004,Smokey Chorizo,"Chorizo (pork), Mozzarella, Basil",329,Non-veg,,
+REST_001,,,CAT_001,SPECIAL CALZONE MENU,ITEM_005,Ultimate Meat Lovers,"Ham, Pepperoni (pork), Jalapeño, Tomato Sauce, Mozzarella",449,Non-veg,,
+REST_001,,,CAT_001,SPECIAL CALZONE MENU,ITEM_006,Mexican Style,"Tomato, Basil, Spices, Corn, Tomato Sauce, Mozzarella, Paneer or Chicken",289,Both,,
+REST_001,,,CAT_002,Bao,ITEM_007,Chicken Teriyaki,,259,Non-veg,,
+REST_001,,,CAT_002,Bao,ITEM_008,Paneer Bhurji,,229,Veg,,
+REST_001,,,CAT_002,Bao,ITEM_009,Mushroom Gochujang,,269,Veg,,
